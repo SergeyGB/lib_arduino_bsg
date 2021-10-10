@@ -20,23 +20,23 @@
       "archiveFileName": "ArduinoMenu-master.zip"
     },
     {
-      "name": "ESPAsyncTCP",
-      "version": "1.2.2",
-      "author": "Me-No-Dev",
-      "maintainer": "Me-No-Dev",
-      "sentence": "Async TCP Library for ESP8266 and ESP31B",
-      "paragraph": "Async TCP Library for ESP8266 and ESP31B",
-      "website": "https://github.comSergeyGB/ESPAsyncTCP",
+      "name": "PCINT r-site.net",
+      "version": "4.0.8",
+      "author": "Rui Azevedo, ruihfazevedo@gmail.com",
+      "maintainer": "neu-rah, ruihfazevedo@gmail.com",
+      "sentence": "Arduino Pin change monitor",
+      "paragraph": "Attach user function and data to pin change events.",
+      "website": "https://github.com/SergeyGB/PCINT.git",
       "category": "BSG",
       "architectures": [
-        "esp8266"
+        "*"
       ],
       "types": [
         "Arduino"
       ],
-      "repository": "https://github.com/SergeyGB/ESPAsyncTCP.git",
-      "url": "https://github.com/SergeyGB/ESPAsyncTCP/archive/master.zip",
-      "archiveFileName": "ESPAsyncTCP-master.zip"
+      "repository": "https://github.com/SergeyGB/PCINT.git",
+      "url": "https://github.com/SergeyGB/PCINT/archive/refs/heads/master.zip",
+      "archiveFileName": "PCINT-master.zip"
     }
   ] 
 }    
