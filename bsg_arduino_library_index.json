@@ -1,0 +1,22 @@
+{
+  "libraries": [
+    {
+      "name": "ESP Async WebServer",
+      "version": "1.2.3",
+      "author": "Me-No-Dev",
+      "maintainer": "Me-No-Dev",
+      "sentence": "Async Web Server for ESP8266 and ESP31B",
+      "paragraph": "Async Web Server for ESP8266 and ESP31B",
+      "website": "https://github.com/SergeyGB/ESPAsyncWebServer.git",
+      "category": "BSG",
+      "architectures": [
+        "esp8266"
+      ],
+      "types": [
+        "Arduino"
+      ],
+      "repository": "https://github.com/SergeyGB/ESPAsyncWebServer.git",
+      "url": "https://github.com/SergeyGB/ESPAsyncWebServer/archive/master.zip",
+      "archiveFileName": "ESPAsyncWebServer-master.zip"
+    }
+}    
