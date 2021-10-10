@@ -20,6 +20,25 @@
       "archiveFileName": "ArduinoMenu-master.zip"
     },
     {
+      "name": "QDEC",
+      "version": "1.0.7",
+      "author": "SimpleHacks",
+      "maintainer": "SimpleHacks",
+      "sentence": "High-efficiency, state-machine based quadrature decoder.",
+      "paragraph": "Counts quadrature pulses from rotary and linear position encoders, and supports generation of events for full-step or half-step modes.  State-machine design results in built-in resistance to bouncing.  MIT License.",
+      "website": "https://github.com/SimpleHacks/QDEC.git",
+      "category": "BSG",
+      "architectures": [
+        "*"
+      ],
+      "types": [
+        "Arduino"
+      ],
+      "repository": "https://github.com/SimpleHacks/QDEC.git",
+      "url": "https://github.com/SimpleHacks/QDEC/archive/refs/heads/master.zip",
+      "archiveFileName": "QDEC-master.zip"
+    },
+    {
       "name": "PCINT r-site.net",
       "version": "4.0.8",
       "author": "Rui Azevedo, ruihfazevedo@gmail.com",
