@@ -1,22 +1,22 @@
 {
   "libraries": [
     {
-      "name": "ESP Async WebServer",
-      "version": "1.2.3",
-      "author": "Me-No-Dev",
-      "maintainer": "Me-No-Dev",
-      "sentence": "Async Web Server for ESP8266 and ESP31B",
-      "paragraph": "Async Web Server for ESP8266 and ESP31B",
-      "website": "https://github.com/SergeyGB/ESPAsyncWebServer.git",
+      "name": "ArduinoMenu library",
+      "version": "4.21.4",
+      "author": "Rui Azevedo, ruihfazevedo@gmail.com",
+      "maintainer": "neu-rah, ruihfazevedo@gmail.com",
+      "sentence": "Generic menu/interactivity system",
+      "paragraph": "Easy to define menu system with sub-menus and associated function to call. Works from serial to Web depending on the hardware.",
+      "website": "https://github.com/SergeyGB/ArduinoMenu.git",
       "category": "BSG",
       "architectures": [
-        "esp8266"
+        "*"
       ],
       "types": [
         "Arduino"
       ],
-      "repository": "https://github.com/SergeyGB/ESPAsyncWebServer.git",
-      "url": "https://github.com/SergeyGB/ESPAsyncWebServer/archive/master.zip",
-      "archiveFileName": "ESPAsyncWebServer-master.zip"
+      "repository": "https://github.com/SergeyGB/ArduinoMenu.git",
+      "url": "https://github.com/SergeyGB/ArduinoMenu/archive/refs/heads/master.zip",
+      "archiveFileName": "ArduinoMenu-master.zip"
     }
 }    
