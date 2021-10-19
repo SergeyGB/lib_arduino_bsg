@@ -39,6 +39,25 @@
       "archiveFileName": "QDEC-master.zip"
     },    
     {
+      "name": "Serasidis_EtherCard_STM",
+      "version": "1.0",
+      "author": "(Original) Jean-Claude Wippler :: Ported to STM32 by Vassilis Serasidis.",
+      "maintainer": "",
+      "sentence": "ENC28J60 Ethernet module library ",
+      "paragraph": "Ethernet module library for STM32F1",
+      "website": "https://github.com/Serasidis/STM32duino/tree/master/libraries/Serasidis_EtherCard_STM.git",
+      "category": "BSG",
+      "architectures": [
+        "STM32F1"
+      ],
+      "types": [
+        "Arduino"
+      ],
+      "repository": "https://github.com/Serasidis/STM32duino/tree/master/libraries/Serasidis_EtherCard_STM.git",
+      "url": "https://github.com/rogerclarkmelbourne/Arduino_STM32/archive/refs/heads/master.zip",
+      "archiveFileName": "Arduino_STM32-master.zip"
+    },    
+    {
       "name": "PCINT r-site.net",
       "version": "4.0.8",
       "author": "Rui Azevedo, ruihfazevedo@gmail.com",
